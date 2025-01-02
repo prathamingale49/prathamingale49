@@ -1,5 +1,8 @@
-## Hi there 👋
+Hello, I'm Pratham and I'm studying electrical engineering.
 
+I'm looking to develop and improve my coding skills.
+
+I'm currently learning C and Rust.
 <!--
 **prathamingale49/prathamingale49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
