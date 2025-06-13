@@ -34,8 +34,8 @@ _Portfolio:_ [**prathamingale.com**](https://prathamingale.com)
 
 ## 🏆 Recent & Upcoming Work
 
-- **Summer 2025:** Electrical Design Intern @ [Tesla](https://www.tesla.com/)  
-- **Fall 2025:** Avionics & Hardware Validation Intern @ [SpaceX](https://www.spacex.com/)  
+- **Summer 2025:** Cell Electrical Design Intern @ [Tesla](https://www.tesla.com/)  
+- **Fall 2025:** Avionics Hardware Design Intern @ [SpaceX](https://www.spacex.com/)  
 - **YJSP:** Hardware lead for HITL platform, full BMS stack, avionics system integration  
 - **Personal:** Building RF test boards, advanced power rails with ultra-low EMI
 
@@ -65,5 +65,5 @@ _"Build hardware like it will go to space — even when it won’t."_ 🚀
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=orange" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=prathamingale49&style=flat-square&color=orange" alt="Profile views" />
 </p>
