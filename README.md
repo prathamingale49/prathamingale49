@@ -1,19 +1,53 @@
-Hello, I'm Pratham and I'm studying electrical engineering 🦾.
+# 👋 Hi, I'm Pratham
 
-I'm looking to develop and improve my coding skills 💡.
+**Electrical Engineering Student @ Georgia Tech**  
+Avionics + Power Electronics + Embedded Systems | Intern @ Tesla • Relativity Space  
+Builder of hardware with purpose. Focused on making designs robust, reliable, and beautiful.
 
-I'm currently learning C and Rust 🎄.
-<!--
-**prathamingale49/prathamingale49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 What I’m working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Summer 2025:** Electrical Design Intern at **Tesla**, Cell Manufacturing  
+- **Fall 2025:** Avionics Test Engineering Intern at **Relativity Space**  
+- **Yellowjacket Space Program**: HITL architecture lead, Battery Management System (BMS) designer  
+- Exploring **RF systems**, impedance matching, and low-noise design  
+- Building a startup concept around **AI + CAD for hardware prototyping**
+
+---
+
+## 🔧 Core Skills
+
+### Hardware & PCB Design
+- **PCB Design:** 4–8 layer boards | Altium Designer | High-current paths | Mixed-signal layouts
+- **Power Electronics:** Buck/Boost converters | Load switches | EMI mitigation | Power integrity
+- **HITL & Avionics:** Sensor emulation | RTDs | Differential sensors | Flight computer integration
+
+### Embedded & Software
+- **Embedded Programming:** C/C++ | STM32 | RP2040 | Hardware abstraction layers
+- **Signal Processing:** Filters | ADC/DAC architecture | Noise optimization
+- **System Architecture:** HITL frameworks | Hardware validation | Test automation
+
+### Tools
+- Altium Designer • LTspice • Keysight PDN • Logic Analyzers • Oscilloscopes • Python (test infra)
+
+---
+
+## ⚡ Interests
+
+- Advanced power regulation for flight hardware  
+- RF telemetry and digital comms (Ethernet, CAN, SPI)  
+- AI-assisted electrical design workflows  
+- High-reliability hardware for aerospace and robotics  
+
+---
+
+## 📫 Connect
+
+- [LinkedIn](https://www.linkedin.com/in/pratham)  
+- [GitHub Projects](https://github.com/your-github-username)  
+- Portfolio site: _coming soon_
+
+---
+
+_"Build hardware like it will go to space — even when it won’t."_ 🚀  
