@@ -2,15 +2,10 @@
 
 _Electrical Engineering Student • Georgia Tech '27_  
 **Power Electronics | Avionics | Embedded Systems | Space Hardware**  
+
 **Internships:**  
-<p align="left">
-  <a href="https://www.tesla.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Tesla_logo.png" alt="Tesla" height="50" style="margin-right: 20px;">
-  </a>
-  <a href="https://www.spacex.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/SpaceX-Logo.svg" alt="SpaceX" height="50" style="margin-left: 20px;">
-  </a>
-</p>
+[![Tesla](https://img.shields.io/badge/Tesla-black?logo=tesla&logoColor=white&style=for-the-badge)](https://www.tesla.com/) 
+[![SpaceX](https://img.shields.io/badge/SpaceX-000000?logo=spacex&logoColor=white&style=for-the-badge)](https://www.spacex.com/)  
 
 _Current Project:_ Hardware-in-the-loop (HITL) platform @ Yellowjacket Space Program 🚀  
 _Portfolio:_ [**prathamingale.com**](https://prathamingale.com)
@@ -21,7 +16,7 @@ _Portfolio:_ [**prathamingale.com**](https://prathamingale.com)
 
 | Hardware Design | Power Electronics | Embedded & Software |
 | --------------- | ----------------- | ------------------- |
-| <img src="https://seeklogo.com/images/A/altium-designer-logo-39D1B979D7-seeklogo.com.png" height="35"> Altium Designer | Buck/Boost converters | C / C++ |
+| [![Altium Designer](https://img.shields.io/badge/Altium%20Designer-orange?logo=altiumdesigner&logoColor=white&style=for-the-badge)]() | Buck/Boost converters | C / C++ |
 | 4–8 layer PCBs  | EMI mitigation | STM32, RP2040 |
 | Impedance control | Load switches | Python (test automation) |
 | PDN analysis | BMS systems | HITL frameworks |
@@ -57,8 +52,8 @@ _Portfolio:_ [**prathamingale.com**](https://prathamingale.com)
 
 ## 📫 Where to Find Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratham)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/your-github-username)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/pratham)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/your-github-username)  
 🌐 [**prathamingale.com**](https://prathamingale.com)
 
 ---
