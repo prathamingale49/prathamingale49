@@ -50,7 +50,7 @@ _Portfolio:_ [**prathamingale.com**](https://prathamingale.com)
 
 ## 📫 Where to Find Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/pratham)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/pratham-ingale)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/prathamingale49)  
 🌐 [**prathamingale.com**](https://prathamingale.com)
 
