@@ -2,8 +2,18 @@
 
 _Electrical Engineering Student • Georgia Tech '27_  
 **Power Electronics | Avionics | Embedded Systems | Space Hardware**  
-**Internships:** [![Tesla](https://img.shields.io/badge/Tesla-black?logo=tesla&logoColor=white)](https://www.tesla.com/) [![SpaceX](https://img.shields.io/badge/SpaceX-000000?logo=spacex&logoColor=white)](https://www.spacex.com/)  
-**Current Project:** Hardware-in-the-loop (HITL) platform @ Yellowjacket Space Program 🚀
+**Internships:**  
+<p align="left">
+  <a href="https://www.tesla.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Tesla_logo.png" alt="Tesla" height="50" style="margin-right: 20px;">
+  </a>
+  <a href="https://www.spacex.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/SpaceX-Logo.svg" alt="SpaceX" height="50" style="margin-left: 20px;">
+  </a>
+</p>
+
+_Current Project:_ Hardware-in-the-loop (HITL) platform @ Yellowjacket Space Program 🚀  
+_Portfolio:_ [**prathamingale.com**](https://prathamingale.com)
 
 ---
 
@@ -11,10 +21,10 @@ _Electrical Engineering Student • Georgia Tech '27_
 
 | Hardware Design | Power Electronics | Embedded & Software |
 | --------------- | ----------------- | ------------------- |
-| ![Altium Designer](https://img.shields.io/badge/Altium%20Designer-orange?logo=altiumdesigner&logoColor=white) | ![LTspice](https://img.shields.io/badge/LTspice-red) | ![C](https://img.shields.io/badge/C-blue?logo=c&logoColor=white) |
-| 4–8 layer PCBs  | Buck/Boost converters | STM32, RP2040 |
-| Impedance control | EMI mitigation | Python (test automation) |
-| PDN analysis | Load switches | HITL frameworks |
+| <img src="https://seeklogo.com/images/A/altium-designer-logo-39D1B979D7-seeklogo.com.png" height="35"> Altium Designer | Buck/Boost converters | C / C++ |
+| 4–8 layer PCBs  | EMI mitigation | STM32, RP2040 |
+| Impedance control | Load switches | Python (test automation) |
+| PDN analysis | BMS systems | HITL frameworks |
 
 ---
 
@@ -29,8 +39,8 @@ _Electrical Engineering Student • Georgia Tech '27_
 
 ## 🏆 Recent & Upcoming Work
 
-- **Summer 2025:** Electrical Design Intern @ [![Tesla](https://img.shields.io/badge/Tesla-black?logo=tesla&logoColor=white)](https://www.tesla.com/)  
-- **Fall 2025:** Avionics & Hardware Validation Intern @ [![SpaceX](https://img.shields.io/badge/SpaceX-000000?logo=spacex&logoColor=white)](https://www.spacex.com/)  
+- **Summer 2025:** Electrical Design Intern @ [Tesla](https://www.tesla.com/)  
+- **Fall 2025:** Avionics & Hardware Validation Intern @ [SpaceX](https://www.spacex.com/)  
 - **YJSP:** Hardware lead for HITL platform, full BMS stack, avionics system integration  
 - **Personal:** Building RF test boards, advanced power rails with ultra-low EMI
 
@@ -49,7 +59,7 @@ _Electrical Engineering Student • Georgia Tech '27_
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratham)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/your-github-username)  
-**Portfolio site:** _coming soon_
+🌐 [**prathamingale.com**](https://prathamingale.com)
 
 ---
 
@@ -59,7 +69,6 @@ _"Build hardware like it will go to space — even when it won’t."_ 🚀
 
 ---
 
-<!-- GitHub profile view counter (optional) -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=orange" alt="Profile views" />
 </p>
