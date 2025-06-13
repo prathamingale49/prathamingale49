@@ -45,7 +45,6 @@ _Portfolio:_ [**prathamingale.com**](https://prathamingale.com)
 - RF systems & impedance matching 📡  
 - Advanced switching converter topologies ⚡  
 - EMI mitigation in dense avionics stacks 🚀  
-- Startup stack: GPT + CAD + Electrical Design tools 🧠  
 
 ---
 
