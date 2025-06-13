@@ -28,7 +28,6 @@ _Portfolio:_ [**prathamingale.com**](https://prathamingale.com)
 - 🔋 **Battery Management Systems (BMS)** for flight hardware  
 - 🛰️ **Avionics sensor simulation** & full-stack HITL  
 - 📡 **RF telemetry** exploration (impedance matching, custom antennas)  
-- 🖥️ **AI-assisted CAD** workflows (startup project concept)
 
 ---
 
