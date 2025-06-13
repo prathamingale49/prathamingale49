@@ -58,12 +58,6 @@ _Portfolio:_ [**prathamingale.com**](https://prathamingale.com)
 
 ---
 
-### ✨ Guiding Principle
-
-_"Build hardware like it will go to space — even when it won’t."_ 🚀
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prathamingale49&style=flat-square&color=orange" alt="Profile views" />
 </p>
